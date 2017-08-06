@@ -20,10 +20,6 @@
                 "0": {
                     "key": "ESC",
                     "label": "ESC"
-                },
-                "1": {
-                    "key": "SYS:SLEEP",
-                    "label": "SLEEP"
                 }
             }
         },
@@ -256,12 +252,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CONS:INTERNETBROWSER",
-                    "label": "WEB"
+                    "key": "GUI + L",
+                    "label": "LOCK"
                 },
                 "1": {
-                    "key": "SYS:POWERDOWN",
-                    "label": "POWER"
+                    "key": "CTRL + ALT + DEL",
+                    "label": "PANIC"
                 }
             }
         },
