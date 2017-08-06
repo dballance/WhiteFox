@@ -1,0 +1,14 @@
+Name = "WhiteFox";
+Layout = "VanillaBlank";
+Base = "AllBlank";
+Version = "0.2";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2016-05-30";
+Generator = "KIICONF 0.2";
+
+U"DELETE" : U"APP";
+U"F" : flashMode();
+U"PAGEUP" : CONS"BRIGHTNESSINCREMENT";
+U"PAGEDOWN" : CONS"BRIGHTNESSDECREMENT";
+

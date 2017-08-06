@@ -1,2 +1,5 @@
 # WhiteFox
-Whitefox Layout
+
+Current layout.
+
+![configuration](assets/layout.png)
